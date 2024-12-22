@@ -38,11 +38,11 @@ Allows users to remove items from favorites individually or in bulk.
 
 **Prerequisites**
 
-Xcode 14.0 or later
+- Xcode 14.0 or later
 
-iOS 16.0 or later as the deployment target
+- iOS 16.0 or later as the deployment target
 
-CocoaPods for dependency management
+- Swift Package Manager (SPM) for dependency management
 
 ### Steps
 
